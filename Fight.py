@@ -29,7 +29,7 @@ class Pokemon:
         return damage
 
 player_pokemon = Pokemon("Pikachu", 50, 10, 3)
-enemy_pokemon = Pokemon("Salamèche", 45, 9, 2)
+enemy_pokemon = Pokemon("Charmender", 45, 9, 2)
 
 player_turn = True
 running = True
