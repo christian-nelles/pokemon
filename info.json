@@ -1,0 +1,3275 @@
+{
+    "bulbasaur": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        }
+    ],
+    "ivysaur": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        }
+    ],
+    "venusaur": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        }
+    ],
+    "charmander": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "charmeleon": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "charizard": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "squirtle": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "wartortle": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "blastoise": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "caterpie": [
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        }
+    ],
+    "metapod": [
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        }
+    ],
+    "butterfree": [
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        }
+    ],
+    "weedle": [
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        }
+    ],
+    "kakuna": [
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        }
+    ],
+    "beedrill": [
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        }
+    ],
+    "pidgey": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "pidgeotto": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "pidgeot": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "rattata": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 20,
+            "time_of_day": "night"
+        }
+    ],
+    "raticate": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 20,
+            "time_of_day": "night"
+        }
+    ],
+    "spearow": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        }
+    ],
+    "fearow": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        }
+    ],
+    "ekans": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        }
+    ],
+    "arbok": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        }
+    ],
+    "pikachu": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 220
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "raichu": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 220
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "sandshrew": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "sandslash": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "nidoran-f": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "nidorina": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "nidoqueen": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "nidoran-m": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "nidorino": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "nidoking": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "clefairy": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "clefable": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "vulpix": [
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "ninetales": [
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "jigglypuff": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "wigglytuff": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "zubat": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        }
+    ],
+    "golbat": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        }
+    ],
+    "oddish": [
+        {
+            "trigger": "level-up",
+            "min_level": 21
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "gloom": [
+        {
+            "trigger": "level-up",
+            "min_level": 21
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "vileplume": [
+        {
+            "trigger": "level-up",
+            "min_level": 21
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "paras": [
+        {
+            "trigger": "level-up",
+            "min_level": 24
+        }
+    ],
+    "parasect": [
+        {
+            "trigger": "level-up",
+            "min_level": 24
+        }
+    ],
+    "venonat": [
+        {
+            "trigger": "level-up",
+            "min_level": 31
+        }
+    ],
+    "venomoth": [
+        {
+            "trigger": "level-up",
+            "min_level": 31
+        }
+    ],
+    "diglett": [
+        {
+            "trigger": "level-up",
+            "min_level": 26
+        }
+    ],
+    "dugtrio": [
+        {
+            "trigger": "level-up",
+            "min_level": 26
+        }
+    ],
+    "meowth": [
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        }
+    ],
+    "persian": [
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        }
+    ],
+    "psyduck": [
+        {
+            "trigger": "level-up",
+            "min_level": 33
+        }
+    ],
+    "golduck": [
+        {
+            "trigger": "level-up",
+            "min_level": 33
+        }
+    ],
+    "mankey": [
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        },
+        {
+            "trigger": "other"
+        }
+    ],
+    "primeape": [
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        },
+        {
+            "trigger": "other"
+        }
+    ],
+    "growlithe": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "arcanine": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "poliwag": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "kings-rock",
+                "url": "https://pokeapi.co/api/v2/item/198/"
+            }
+        }
+    ],
+    "poliwhirl": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "kings-rock",
+                "url": "https://pokeapi.co/api/v2/item/198/"
+            }
+        }
+    ],
+    "poliwrath": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "kings-rock",
+                "url": "https://pokeapi.co/api/v2/item/198/"
+            }
+        }
+    ],
+    "abra": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "trade"
+        }
+    ],
+    "kadabra": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "trade"
+        }
+    ],
+    "alakazam": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "trade"
+        }
+    ],
+    "machop": [
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        },
+        {
+            "trigger": "trade"
+        }
+    ],
+    "machoke": [
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        },
+        {
+            "trigger": "trade"
+        }
+    ],
+    "machamp": [
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        },
+        {
+            "trigger": "trade"
+        }
+    ],
+    "bellsprout": [
+        {
+            "trigger": "level-up",
+            "min_level": 21
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "weepinbell": [
+        {
+            "trigger": "level-up",
+            "min_level": 21
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "victreebel": [
+        {
+            "trigger": "level-up",
+            "min_level": 21
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "tentacool": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "tentacruel": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "geodude": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        },
+        {
+            "trigger": "trade"
+        }
+    ],
+    "graveler": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        },
+        {
+            "trigger": "trade"
+        }
+    ],
+    "golem": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        },
+        {
+            "trigger": "trade"
+        }
+    ],
+    "ponyta": [
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "rapidash": [
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "slowpoke": [
+        {
+            "trigger": "level-up",
+            "min_level": 37
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "kings-rock",
+                "url": "https://pokeapi.co/api/v2/item/198/"
+            }
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "slowbro": [
+        {
+            "trigger": "level-up",
+            "min_level": 37
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "kings-rock",
+                "url": "https://pokeapi.co/api/v2/item/198/"
+            }
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "magnemite": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "magneton": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "farfetchd": [
+        {
+            "trigger": "three-critical-hits"
+        }
+    ],
+    "doduo": [
+        {
+            "trigger": "level-up",
+            "min_level": 31
+        }
+    ],
+    "dodrio": [
+        {
+            "trigger": "level-up",
+            "min_level": 31
+        }
+    ],
+    "seel": [
+        {
+            "trigger": "level-up",
+            "min_level": 34
+        }
+    ],
+    "dewgong": [
+        {
+            "trigger": "level-up",
+            "min_level": 34
+        }
+    ],
+    "grimer": [
+        {
+            "trigger": "level-up",
+            "min_level": 38
+        }
+    ],
+    "muk": [
+        {
+            "trigger": "level-up",
+            "min_level": 38
+        }
+    ],
+    "shellder": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "cloyster": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "gastly": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        },
+        {
+            "trigger": "trade"
+        }
+    ],
+    "haunter": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        },
+        {
+            "trigger": "trade"
+        }
+    ],
+    "gengar": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        },
+        {
+            "trigger": "trade"
+        }
+    ],
+    "onix": [
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "metal-coat",
+                "url": "https://pokeapi.co/api/v2/item/210/"
+            }
+        }
+    ],
+    "drowzee": [
+        {
+            "trigger": "level-up",
+            "min_level": 26
+        }
+    ],
+    "hypno": [
+        {
+            "trigger": "level-up",
+            "min_level": 26
+        }
+    ],
+    "krabby": [
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        }
+    ],
+    "kingler": [
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        }
+    ],
+    "voltorb": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "electrode": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "exeggcute": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "exeggutor": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "cubone": [
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 28,
+            "time_of_day": "night"
+        }
+    ],
+    "marowak": [
+        {
+            "trigger": "level-up",
+            "min_level": 28
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 28,
+            "time_of_day": "night"
+        }
+    ],
+    "hitmonlee": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        }
+    ],
+    "hitmonchan": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        }
+    ],
+    "lickitung": [
+        {
+            "trigger": "level-up",
+            "known_move": {
+                "name": "rollout",
+                "url": "https://pokeapi.co/api/v2/move/205/"
+            }
+        }
+    ],
+    "koffing": [
+        {
+            "trigger": "level-up",
+            "min_level": 35
+        }
+    ],
+    "weezing": [
+        {
+            "trigger": "level-up",
+            "min_level": 35
+        }
+    ],
+    "rhyhorn": [
+        {
+            "trigger": "level-up",
+            "min_level": 42
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "protector",
+                "url": "https://pokeapi.co/api/v2/item/298/"
+            }
+        }
+    ],
+    "rhydon": [
+        {
+            "trigger": "level-up",
+            "min_level": 42
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "protector",
+                "url": "https://pokeapi.co/api/v2/item/298/"
+            }
+        }
+    ],
+    "chansey": [
+        {
+            "trigger": "level-up",
+            "time_of_day": "day",
+            "held_item": {
+                "name": "oval-stone",
+                "url": "https://pokeapi.co/api/v2/item/110/"
+            }
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        }
+    ],
+    "tangela": [
+        {
+            "trigger": "level-up",
+            "known_move": {
+                "name": "ancient-power",
+                "url": "https://pokeapi.co/api/v2/move/246/"
+            }
+        }
+    ],
+    "horsea": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "dragon-scale",
+                "url": "https://pokeapi.co/api/v2/item/212/"
+            }
+        }
+    ],
+    "seadra": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "dragon-scale",
+                "url": "https://pokeapi.co/api/v2/item/212/"
+            }
+        }
+    ],
+    "goldeen": [
+        {
+            "trigger": "level-up",
+            "min_level": 33
+        }
+    ],
+    "seaking": [
+        {
+            "trigger": "level-up",
+            "min_level": 33
+        }
+    ],
+    "staryu": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "starmie": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "mr-mime": [
+        {
+            "trigger": "level-up",
+            "known_move": {
+                "name": "mimic",
+                "url": "https://pokeapi.co/api/v2/move/102/"
+            }
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 42
+        }
+    ],
+    "scyther": [
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "metal-coat",
+                "url": "https://pokeapi.co/api/v2/item/210/"
+            }
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "jynx": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "electabuzz": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "electirizer",
+                "url": "https://pokeapi.co/api/v2/item/299/"
+            }
+        }
+    ],
+    "magmar": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "magmarizer",
+                "url": "https://pokeapi.co/api/v2/item/300/"
+            }
+        }
+    ],
+    "magikarp": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        }
+    ],
+    "gyarados": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        }
+    ],
+    "eevee": [
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "day",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "night",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        }
+    ],
+    "vaporeon": [
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "day",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "night",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        }
+    ],
+    "jolteon": [
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "day",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "night",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        }
+    ],
+    "flareon": [
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "day",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "night",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        }
+    ],
+    "porygon": [
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "up-grade",
+                "url": "https://pokeapi.co/api/v2/item/229/"
+            }
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "dubious-disc",
+                "url": "https://pokeapi.co/api/v2/item/301/"
+            }
+        }
+    ],
+    "omanyte": [
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "omastar": [
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "kabuto": [
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "kabutops": [
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "snorlax": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        }
+    ],
+    "dratini": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 55
+        }
+    ],
+    "dragonair": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 55
+        }
+    ],
+    "dragonite": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 55
+        }
+    ],
+    "chikorita": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        }
+    ],
+    "bayleef": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        }
+    ],
+    "meganium": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        }
+    ],
+    "cyndaquil": [
+        {
+            "trigger": "level-up",
+            "min_level": 14
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "quilava": [
+        {
+            "trigger": "level-up",
+            "min_level": 14
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "typhlosion": [
+        {
+            "trigger": "level-up",
+            "min_level": 14
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "totodile": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "croconaw": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "feraligatr": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "sentret": [
+        {
+            "trigger": "level-up",
+            "min_level": 15
+        }
+    ],
+    "furret": [
+        {
+            "trigger": "level-up",
+            "min_level": 15
+        }
+    ],
+    "hoothoot": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        }
+    ],
+    "noctowl": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        }
+    ],
+    "ledyba": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        }
+    ],
+    "ledian": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        }
+    ],
+    "spinarak": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        }
+    ],
+    "ariados": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        }
+    ],
+    "crobat": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        }
+    ],
+    "chinchou": [
+        {
+            "trigger": "level-up",
+            "min_level": 27
+        }
+    ],
+    "lanturn": [
+        {
+            "trigger": "level-up",
+            "min_level": 27
+        }
+    ],
+    "pichu": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 220
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "cleffa": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "igglybuff": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "togepi": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "togetic": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "natu": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        }
+    ],
+    "xatu": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        }
+    ],
+    "mareep": [
+        {
+            "trigger": "level-up",
+            "min_level": 15
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "flaaffy": [
+        {
+            "trigger": "level-up",
+            "min_level": 15
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "ampharos": [
+        {
+            "trigger": "level-up",
+            "min_level": 15
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "bellossom": [
+        {
+            "trigger": "level-up",
+            "min_level": 21
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "marill": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        }
+    ],
+    "azumarill": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        }
+    ],
+    "sudowoodo": [
+        {
+            "trigger": "level-up",
+            "known_move": {
+                "name": "mimic",
+                "url": "https://pokeapi.co/api/v2/move/102/"
+            }
+        }
+    ],
+    "politoed": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "kings-rock",
+                "url": "https://pokeapi.co/api/v2/item/198/"
+            }
+        }
+    ],
+    "hoppip": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 27
+        }
+    ],
+    "skiploom": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 27
+        }
+    ],
+    "jumpluff": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 27
+        }
+    ],
+    "aipom": [
+        {
+            "trigger": "level-up",
+            "known_move": {
+                "name": "double-hit",
+                "url": "https://pokeapi.co/api/v2/move/458/"
+            }
+        }
+    ],
+    "sunkern": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "sunflora": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "yanma": [
+        {
+            "trigger": "level-up",
+            "known_move": {
+                "name": "ancient-power",
+                "url": "https://pokeapi.co/api/v2/move/246/"
+            }
+        }
+    ],
+    "wooper": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        }
+    ],
+    "quagsire": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        }
+    ],
+    "espeon": [
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "day",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "night",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        }
+    ],
+    "umbreon": [
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "day",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "night",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        }
+    ],
+    "murkrow": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "slowking": [
+        {
+            "trigger": "level-up",
+            "min_level": 37
+        },
+        {
+            "trigger": "use-item"
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "kings-rock",
+                "url": "https://pokeapi.co/api/v2/item/198/"
+            }
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "misdreavus": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "wobbuffet": [
+        {
+            "trigger": "level-up",
+            "min_level": 15
+        }
+    ],
+    "girafarig": [
+        {
+            "trigger": "level-up",
+            "known_move": {
+                "name": "twin-beam",
+                "url": "https://pokeapi.co/api/v2/move/888/"
+            }
+        }
+    ],
+    "pineco": [
+        {
+            "trigger": "level-up",
+            "min_level": 31
+        }
+    ],
+    "forretress": [
+        {
+            "trigger": "level-up",
+            "min_level": 31
+        }
+    ],
+    "dunsparce": [
+        {
+            "trigger": "level-up",
+            "known_move": {
+                "name": "hyper-drill",
+                "url": "https://pokeapi.co/api/v2/move/887/"
+            }
+        }
+    ],
+    "gligar": [
+        {
+            "trigger": "level-up",
+            "time_of_day": "night",
+            "held_item": {
+                "name": "razor-fang",
+                "url": "https://pokeapi.co/api/v2/item/304/"
+            }
+        }
+    ],
+    "steelix": [
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "metal-coat",
+                "url": "https://pokeapi.co/api/v2/item/210/"
+            }
+        }
+    ],
+    "snubbull": [
+        {
+            "trigger": "level-up",
+            "min_level": 23
+        }
+    ],
+    "granbull": [
+        {
+            "trigger": "level-up",
+            "min_level": 23
+        }
+    ],
+    "qwilfish": [
+        {
+            "trigger": "strong-style-move",
+            "known_move": {
+                "name": "barb-barrage",
+                "url": "https://pokeapi.co/api/v2/move/839/"
+            }
+        }
+    ],
+    "scizor": [
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "metal-coat",
+                "url": "https://pokeapi.co/api/v2/item/210/"
+            }
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "sneasel": [
+        {
+            "trigger": "level-up",
+            "time_of_day": "night",
+            "held_item": {
+                "name": "razor-claw",
+                "url": "https://pokeapi.co/api/v2/item/303/"
+            }
+        },
+        {
+            "trigger": "level-up",
+            "time_of_day": "day",
+            "held_item": {
+                "name": "razor-claw",
+                "url": "https://pokeapi.co/api/v2/item/303/"
+            }
+        }
+    ],
+    "teddiursa": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "use-item",
+            "time_of_day": "full-moon"
+        }
+    ],
+    "ursaring": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "use-item",
+            "time_of_day": "full-moon"
+        }
+    ],
+    "slugma": [
+        {
+            "trigger": "level-up",
+            "min_level": 38
+        }
+    ],
+    "magcargo": [
+        {
+            "trigger": "level-up",
+            "min_level": 38
+        }
+    ],
+    "swinub": [
+        {
+            "trigger": "level-up",
+            "min_level": 33
+        },
+        {
+            "trigger": "level-up",
+            "known_move": {
+                "name": "ancient-power",
+                "url": "https://pokeapi.co/api/v2/move/246/"
+            }
+        }
+    ],
+    "piloswine": [
+        {
+            "trigger": "level-up",
+            "min_level": 33
+        },
+        {
+            "trigger": "level-up",
+            "known_move": {
+                "name": "ancient-power",
+                "url": "https://pokeapi.co/api/v2/move/246/"
+            }
+        }
+    ],
+    "corsola": [
+        {
+            "trigger": "level-up",
+            "min_level": 38
+        }
+    ],
+    "remoraid": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        }
+    ],
+    "octillery": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        }
+    ],
+    "mantine": [
+        {
+            "trigger": "level-up"
+        }
+    ],
+    "houndour": [
+        {
+            "trigger": "level-up",
+            "min_level": 24
+        }
+    ],
+    "houndoom": [
+        {
+            "trigger": "level-up",
+            "min_level": 24
+        }
+    ],
+    "kingdra": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "dragon-scale",
+                "url": "https://pokeapi.co/api/v2/item/212/"
+            }
+        }
+    ],
+    "phanpy": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        }
+    ],
+    "donphan": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        }
+    ],
+    "porygon2": [
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "up-grade",
+                "url": "https://pokeapi.co/api/v2/item/229/"
+            }
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "dubious-disc",
+                "url": "https://pokeapi.co/api/v2/item/301/"
+            }
+        }
+    ],
+    "stantler": [
+        {
+            "trigger": "agile-style-move",
+            "known_move": {
+                "name": "psyshield-bash",
+                "url": "https://pokeapi.co/api/v2/move/828/"
+            }
+        }
+    ],
+    "tyrogue": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        }
+    ],
+    "hitmontop": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        }
+    ],
+    "smoochum": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "elekid": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "electirizer",
+                "url": "https://pokeapi.co/api/v2/item/299/"
+            }
+        }
+    ],
+    "magby": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "magmarizer",
+                "url": "https://pokeapi.co/api/v2/item/300/"
+            }
+        }
+    ],
+    "blissey": [
+        {
+            "trigger": "level-up",
+            "time_of_day": "day",
+            "held_item": {
+                "name": "oval-stone",
+                "url": "https://pokeapi.co/api/v2/item/110/"
+            }
+        },
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        }
+    ],
+    "larvitar": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 55
+        }
+    ],
+    "pupitar": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 55
+        }
+    ],
+    "tyranitar": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 55
+        }
+    ],
+    "treecko": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "grovyle": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "sceptile": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "torchic": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "combusken": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "blaziken": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "mudkip": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "marshtomp": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "swampert": [
+        {
+            "trigger": "level-up",
+            "min_level": 16
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "poochyena": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        }
+    ],
+    "mightyena": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        }
+    ],
+    "zigzagoon": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 35,
+            "time_of_day": "night"
+        }
+    ],
+    "linoone": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 35,
+            "time_of_day": "night"
+        }
+    ],
+    "wurmple": [
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        }
+    ],
+    "silcoon": [
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        }
+    ],
+    "beautifly": [
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        }
+    ],
+    "cascoon": [
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        }
+    ],
+    "dustox": [
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 7
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 10
+        }
+    ],
+    "lotad": [
+        {
+            "trigger": "level-up",
+            "min_level": 14
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "lombre": [
+        {
+            "trigger": "level-up",
+            "min_level": 14
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "ludicolo": [
+        {
+            "trigger": "level-up",
+            "min_level": 14
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "seedot": [
+        {
+            "trigger": "level-up",
+            "min_level": 14
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "nuzleaf": [
+        {
+            "trigger": "level-up",
+            "min_level": 14
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "shiftry": [
+        {
+            "trigger": "level-up",
+            "min_level": 14
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "taillow": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        }
+    ],
+    "swellow": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        }
+    ],
+    "wingull": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        }
+    ],
+    "pelipper": [
+        {
+            "trigger": "level-up",
+            "min_level": 25
+        }
+    ],
+    "ralts": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "kirlia": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "gardevoir": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "surskit": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        }
+    ],
+    "masquerain": [
+        {
+            "trigger": "level-up",
+            "min_level": 22
+        }
+    ],
+    "shroomish": [
+        {
+            "trigger": "level-up",
+            "min_level": 23
+        }
+    ],
+    "breloom": [
+        {
+            "trigger": "level-up",
+            "min_level": 23
+        }
+    ],
+    "slakoth": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "vigoroth": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "slaking": [
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "nincada": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "shed"
+        }
+    ],
+    "ninjask": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "shed"
+        }
+    ],
+    "shedinja": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "shed"
+        }
+    ],
+    "whismur": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "loudred": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "exploud": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "makuhita": [
+        {
+            "trigger": "level-up",
+            "min_level": 24
+        }
+    ],
+    "hariyama": [
+        {
+            "trigger": "level-up",
+            "min_level": 24
+        }
+    ],
+    "azurill": [
+        {
+            "trigger": "level-up",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 18
+        }
+    ],
+    "nosepass": [
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "level-up"
+        }
+    ],
+    "skitty": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "delcatty": [
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "aron": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 42
+        }
+    ],
+    "lairon": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 42
+        }
+    ],
+    "aggron": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 42
+        }
+    ],
+    "meditite": [
+        {
+            "trigger": "level-up",
+            "min_level": 37
+        }
+    ],
+    "medicham": [
+        {
+            "trigger": "level-up",
+            "min_level": 37
+        }
+    ],
+    "electrike": [
+        {
+            "trigger": "level-up",
+            "min_level": 26
+        }
+    ],
+    "manectric": [
+        {
+            "trigger": "level-up",
+            "min_level": 26
+        }
+    ],
+    "roselia": [
+        {
+            "trigger": "level-up",
+            "time_of_day": "day",
+            "min_happiness": 160
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "gulpin": [
+        {
+            "trigger": "level-up",
+            "min_level": 26
+        }
+    ],
+    "swalot": [
+        {
+            "trigger": "level-up",
+            "min_level": 26
+        }
+    ],
+    "carvanha": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "sharpedo": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "wailmer": [
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "wailord": [
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "numel": [
+        {
+            "trigger": "level-up",
+            "min_level": 33
+        }
+    ],
+    "camerupt": [
+        {
+            "trigger": "level-up",
+            "min_level": 33
+        }
+    ],
+    "spoink": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        }
+    ],
+    "grumpig": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        }
+    ],
+    "trapinch": [
+        {
+            "trigger": "level-up",
+            "min_level": 35
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 45
+        }
+    ],
+    "vibrava": [
+        {
+            "trigger": "level-up",
+            "min_level": 35
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 45
+        }
+    ],
+    "flygon": [
+        {
+            "trigger": "level-up",
+            "min_level": 35
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 45
+        }
+    ],
+    "cacnea": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        }
+    ],
+    "cacturne": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        }
+    ],
+    "swablu": [
+        {
+            "trigger": "level-up",
+            "min_level": 35
+        }
+    ],
+    "altaria": [
+        {
+            "trigger": "level-up",
+            "min_level": 35
+        }
+    ],
+    "barboach": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "whiscash": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "corphish": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "crawdaunt": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        }
+    ],
+    "baltoy": [
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "claydol": [
+        {
+            "trigger": "level-up",
+            "min_level": 36
+        }
+    ],
+    "lileep": [
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "cradily": [
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "anorith": [
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "armaldo": [
+        {
+            "trigger": "level-up",
+            "min_level": 40
+        }
+    ],
+    "feebas": [
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "prism-scale",
+                "url": "https://pokeapi.co/api/v2/item/580/"
+            }
+        },
+        {
+            "trigger": "level-up"
+        }
+    ],
+    "milotic": [
+        {
+            "trigger": "level-up"
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "prism-scale",
+                "url": "https://pokeapi.co/api/v2/item/580/"
+            }
+        },
+        {
+            "trigger": "level-up"
+        }
+    ],
+    "shuppet": [
+        {
+            "trigger": "level-up",
+            "min_level": 37
+        }
+    ],
+    "banette": [
+        {
+            "trigger": "level-up",
+            "min_level": 37
+        }
+    ],
+    "duskull": [
+        {
+            "trigger": "level-up",
+            "min_level": 37
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "reaper-cloth",
+                "url": "https://pokeapi.co/api/v2/item/302/"
+            }
+        }
+    ],
+    "dusclops": [
+        {
+            "trigger": "level-up",
+            "min_level": 37
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "reaper-cloth",
+                "url": "https://pokeapi.co/api/v2/item/302/"
+            }
+        }
+    ],
+    "chimecho": [
+        {
+            "trigger": "level-up",
+            "time_of_day": "night",
+            "min_happiness": 220
+        }
+    ],
+    "wynaut": [
+        {
+            "trigger": "level-up",
+            "min_level": 15
+        }
+    ],
+    "snorunt": [
+        {
+            "trigger": "level-up",
+            "min_level": 42
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "glalie": [
+        {
+            "trigger": "level-up",
+            "min_level": 42
+        },
+        {
+            "trigger": "use-item"
+        }
+    ],
+    "spheal": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 44
+        }
+    ],
+    "sealeo": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 44
+        }
+    ],
+    "walrein": [
+        {
+            "trigger": "level-up",
+            "min_level": 32
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 44
+        }
+    ],
+    "clamperl": [
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "deep-sea-tooth",
+                "url": "https://pokeapi.co/api/v2/item/203/"
+            }
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "deep-sea-scale",
+                "url": "https://pokeapi.co/api/v2/item/204/"
+            }
+        }
+    ],
+    "huntail": [
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "deep-sea-tooth",
+                "url": "https://pokeapi.co/api/v2/item/203/"
+            }
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "deep-sea-scale",
+                "url": "https://pokeapi.co/api/v2/item/204/"
+            }
+        }
+    ],
+    "gorebyss": [
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "deep-sea-tooth",
+                "url": "https://pokeapi.co/api/v2/item/203/"
+            }
+        },
+        {
+            "trigger": "trade",
+            "held_item": {
+                "name": "deep-sea-scale",
+                "url": "https://pokeapi.co/api/v2/item/204/"
+            }
+        }
+    ],
+    "bagon": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 50
+        }
+    ],
+    "shelgon": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 50
+        }
+    ],
+    "salamence": [
+        {
+            "trigger": "level-up",
+            "min_level": 30
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 50
+        }
+    ],
+    "beldum": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 45
+        }
+    ],
+    "metang": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 45
+        }
+    ],
+    "metagross": [
+        {
+            "trigger": "level-up",
+            "min_level": 20
+        },
+        {
+            "trigger": "level-up",
+            "min_level": 45
+        }
+    ]
+}
