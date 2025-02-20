@@ -1,78 +1,83 @@
 import pygame
 import sys
+import json
+import random
 
-# Initialize Pygame
+# Load Pokémon from the JSON file
+with open("pokemon.json", "r", encoding="utf-8") as file:
+    data = json.load(file)
+
+# Check if `data` is a dictionary
+if not isinstance(data, dict):
+    print("Error: The JSON file must contain a dictionary.")
+    sys.exit()
+
+# Build the Pokédex by filtering Pokémon with IDs between 1 and 385
+pokedex = {
+    p["name"]: p
+    for key, p in data.items()
+    if 1 <= int(key) <= 385  # Convert the key to an integer for comparison
+}
+
 pygame.init()
 
-# Define colors
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
-BLUE = (0, 0, 255)
 RED = (255, 0, 0)
-GREEN = (0, 255, 0)
 
-# Create the window
 display_width = 600
 display_height = 400
 screen = pygame.display.set_mode((display_width, display_height))
 pygame.display.set_caption("Pokédex")
 
-# Define the font
+
 font = pygame.font.Font(None, 30)
 
-# Pokémon data
-pokedex = {
-    "Pikachu": {"Type": "Electric", "Attack": 55, "Defense": 40, "HP": 35},
-    "Bulbasaur": {"Type": "Grass", "Attack": 49, "Defense": 49, "HP": 45},
-    "Charmander": {"Type": "Fire", "Attack": 52, "Defense": 43, "HP": 39},
-    "Squirtle": {"Type": "Water", "Attack": 48, "Defense": 65, "HP": 44},
-}
+# List of available Pokémon names
+pokemon_names = list(pokedex.keys())
 
-# Function to display Pokémon information
-def display_pokemon(pokemon_name):
+# Select a random Pokémon at the start
+current_index = random.randint(0, len(pokemon_names) - 1)
+
+def display_pokemon(index):
+    """Displays the Pokémon information for the given index."""
     screen.fill(WHITE)
-    
-    if pokemon_name in pokedex:
-        pokemon = pokedex[pokemon_name]
-        lines = [
-            f"Name: {pokemon_name}",
-            f"Type: {pokemon['Type']}",
-            f"Attack: {pokemon['Attack']}",
-            f"Defense: {pokemon['Defense']}",
-            f"HP: {pokemon['HP']}"
-        ]
-        
-        y = 50
-        for line in lines:
-            text = font.render(line, True, BLACK)
-            screen.blit(text, (50, y))
-            y += 40
-    else:
-        text = font.render("Pokémon not found", True, RED)
-        screen.blit(text, (50, 50))
-    
+
+    pokemon_name = pokemon_names[index]
+    pokemon = pokedex[pokemon_name]
+
+    lines = [
+        f"Name: {pokemon_name}",
+        f"ID: {pokemon['id']}",
+        f"Type: {', '.join(pokemon['types'])}",  # Fixed key
+        f"Attack: {pokemon['stats']['attack']}",  # Fixed key
+        f"Defense: {pokemon['stats']['defense']}",  # Fixed key
+        f"HP: {pokemon['stats']['hp']}"  # Fixed key
+    ]
+
+    y = 50
+    for line in lines:
+        text = font.render(line, True, BLACK)
+        screen.blit(text, (50, y))
+        y += 40
+
     pygame.display.flip()
+
+# Display the random Pokémon at the start
+display_pokemon(current_index)
 
 # Main loop
 running = True
-selected_pokemon = "Pikachu"
-display_pokemon(selected_pokemon)
-
 while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
         elif event.type == pygame.KEYDOWN:
-            if event.key == pygame.K_1:
-                selected_pokemon = "Pikachu"
-            elif event.key == pygame.K_2:
-                selected_pokemon = "Bulbasaur"
-            elif event.key == pygame.K_3:
-                selected_pokemon = "Charmander"
-            elif event.key == pygame.K_4:
-                selected_pokemon = "Squirtle"
-            display_pokemon(selected_pokemon)
+            if event.key == pygame.K_RIGHT:  
+                current_index = (current_index + 1) % len(pokemon_names)
+            elif event.key == pygame.K_LEFT:  
+                current_index = (current_index - 1) % len(pokemon_names)
+            display_pokemon(current_index)
 
 pygame.quit()
-
 sys.exit()
