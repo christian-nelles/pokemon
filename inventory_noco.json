@@ -1,0 +1,68 @@
+{
+    "1": {
+        "id": "389",
+        "exp": 0,
+        "level": 41,
+        "attack_list": {
+            "first_attack": "tackle",
+            "second_attack": "leafage",
+            "third_attack": "mud-slap",
+            "fourth_attack": "bite"
+        }
+    },
+    "2": {
+        "id": null,
+        "exp": null,
+        "level": null,
+        "attack_list": {
+            "first_attack": null,
+            "second_attack": null,
+            "third_attack": null,
+            "fourth_attack": null
+        }
+    },
+    "3": {
+        "id": null,
+        "exp": null,
+        "level": null,
+        "attack_list": {
+            "first_attack": null,
+            "second_attack": null,
+            "third_attack": null,
+            "fourth_attack": null
+        }
+    },
+    "4": {
+        "id": null,
+        "exp": null,
+        "level": null,
+        "attack_list": {
+            "first_attack": null,
+            "second_attack": null,
+            "third_attack": null,
+            "fourth_attack": null
+        }
+    },
+    "5": {
+        "id": null,
+        "exp": null,
+        "level": null,
+        "attack_list": {
+            "first_attack": null,
+            "second_attack": null,
+            "third_attack": null,
+            "fourth_attack": null
+        }
+    },
+    "6": {
+        "id": null,
+        "exp": null,
+        "level": null,
+        "attack_list": {
+            "first_attack": null,
+            "second_attack": null,
+            "third_attack": null,
+            "fourth_attack": null
+        }
+    }
+}

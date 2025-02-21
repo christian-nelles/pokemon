@@ -1,0 +1,68 @@
+{
+    "1": {
+        "id": "255",
+        "exp": 42,
+        "level": 1,
+        "attack_list": {
+            "first_attack": "scratch",
+            "second_attack": "growl",
+            "third_attack": null,
+            "fourth_attack": null
+        }
+    },
+    "2": {
+        "id": null,
+        "exp": null,
+        "level": null,
+        "attack_list": {
+            "first_attack": null,
+            "second_attack": null,
+            "third_attack": null,
+            "fourth_attack": null
+        }
+    },
+    "3": {
+        "id": null,
+        "exp": null,
+        "level": null,
+        "attack_list": {
+            "first_attack": null,
+            "second_attack": null,
+            "third_attack": null,
+            "fourth_attack": null
+        }
+    },
+    "4": {
+        "id": null,
+        "exp": null,
+        "level": null,
+        "attack_list": {
+            "first_attack": null,
+            "second_attack": null,
+            "third_attack": null,
+            "fourth_attack": null
+        }
+    },
+    "5": {
+        "id": null,
+        "exp": null,
+        "level": null,
+        "attack_list": {
+            "first_attack": null,
+            "second_attack": null,
+            "third_attack": null,
+            "fourth_attack": null
+        }
+    },
+    "6": {
+        "id": null,
+        "exp": null,
+        "level": null,
+        "attack_list": {
+            "first_attack": null,
+            "second_attack": null,
+            "third_attack": null,
+            "fourth_attack": null
+        }
+    }
+}
